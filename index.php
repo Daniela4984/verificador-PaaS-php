@@ -1,5 +1,4 @@
-<php?
-print("hola mundo")
+
 &lt;?php
 function evaluarPassword($pwd) {
 $puntos = 0;
